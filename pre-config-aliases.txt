@@ -99,14 +99,4 @@ alias systemctlenablenow="sudo systemctl enable --now"
 alias systemctldisablenow="sudo systemctl disable --now"
 
 
-#Customizing-terminal
-figlet -cw 125 Secure Linux
-echo ""
-echo -e "\e[0;32m Os:\e[0m" "KDE 🔥22.04.1"
-echo -e "\e[0;32m Kernel: \e[0m""5.15.0-56"
-echo -e "\e[0;32m DE:\e[0m" "Plasma ❄ 5.24.6"
-echo -e "\e[0;32m Local IP:\e[0m" "192.168.0.***"
-echo -e "\e[0;32m CPU:\e[0m" "AMD Ryzen 5 3400G (8) @ 3.775GHz"
-echo " "
-
 
