@@ -14,7 +14,6 @@ you download my automatedscript from github extract it
 and paste all automated .sh file into your /bin directory
 
 1. open terminal
-2. cd automated filepath
+2. cd <give path where file is downloaded>
 3. Type: sudo mv *  /bin      (please give space between {sudo mv *} and {/bin} )
-
 4. Now restart the terminal and here you good to go 
